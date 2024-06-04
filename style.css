@@ -1,0 +1,91 @@
+
+
+a{
+    text-decoration: none;
+}
+.login-conttainer{
+    background-color: #24353F;
+    height: 100vh;
+  
+}
+.login-form{
+    background-color: #24353F;
+    box-shadow: 2px 0px 18px 6px;;
+    margin-top: 70px;
+  
+}
+.login-form h1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color:  rgb(23, 162, 184);
+}
+.login-form h4{
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.btn{
+    border: solid 1px #17A2B8 ;
+    color: #17A2B8;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: #17A2B8;
+    color: white;
+}
+.form-control::-webkit-input-placeholder{
+    color: white;
+}
+
+.form-control {
+    color: #CED4DA;
+    background-color: transparent;
+}
+
+.form-control:focus {
+    color: #CED4DA;
+    background-color: transparent;
+    border-color: #17A2B8;
+    outline: 0;
+    box-shadow: none;
+}
+#btn{
+    background-color: transparent;
+    border: solid 1px #FFC107;
+    color:#CED4DA ;
+    border-radius: 5px;
+    margin: 10px;
+    margin-right: 60px;
+}
+#btn:hover{
+    background-color: #FFC107;
+    transition: all ease-in .2s;
+}
+#btn a{
+    color: #CED4DA;
+    text-decoration: none;
+}
+h3{
+    font-size: 20px;
+    padding-left: 70px;
+    color: white;
+    margin-top: 10px;
+}
+.heading{
+    background-color: #24353F;
+    box-shadow: 0px 0px 20px 4px;
+}
+.logout-conttainer{
+    background-color: #24353F;
+    height: 100vh;
+    overflow: auto;
+  
+}
+.logout-conttainer .row{
+    margin-top: 10%;
+}
+#signin-btn{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
